@@ -19,7 +19,7 @@ Run program `py ip-stalker-mini.py` or `python3 ip-stalker-mini.py` depending on
 - [x] Port scanner (external at this moment)
 - [x] RDAP (external at this moment)
 - [ ] Vulnerability scanner
-- [ ] Advanced pinger on different ports in a different way
+- [ ] Advanced pinger on different ports in a different ways
 - [ ] IP reputation utility
 - [ ] IP scanner
 - [ ] Custom packet sender/flooder
