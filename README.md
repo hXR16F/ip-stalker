@@ -2,7 +2,7 @@
 	<br>
 	<b>ip-stalker</b> (Windows only)
 	<br>
- 	<i>ImGui based program for IP address recognition.</i>
+ 	<i>ImGui based program for IP address investigation.</i>
 	<br><br><br>
   <img src="https://user-images.githubusercontent.com/48186982/198576876-2f06d80f-4b8b-466e-99d5-c204bf77faef.png">
 </p>
